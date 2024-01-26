@@ -9,3 +9,6 @@ A trailblazing sleep detection AI app developed by the Dr. BreathE team. This ap
 - AI-Powered Sleep Recording Evaluation: Employs advanced AI to analyze sleep recordings, delivering in-depth evaluations and actionable insights on sleep patterns.
 
 The sophisticated AI algorithms that drive the SomnAI App are the brainchild of the Dr. BreathE team, ensuring each feature is rooted in scientific accuracy and expertise. The backend and frontend UI/UX development is developed by the Polish software team, Droids on Roids. 
+
+
+![picture](https://github.com/Dr-BreathE/SomnAI-APP/blob/main/APP%20UI/UI_02.jpg)
